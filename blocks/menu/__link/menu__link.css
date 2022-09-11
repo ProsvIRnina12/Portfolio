@@ -1,0 +1,13 @@
+.menu__link {
+    display: flex;
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+    width: auto;
+    align-items: center;
+}
+  
+.menu__link:hover {
+    color: rgba(62, 136, 247, 0.9);
+    transition: .5s;
+}
